@@ -18,7 +18,6 @@ This project is a **dual-mode smart home automation system** designed to control
 - 4-Channel Relay Module
 - LM2596 Buck Converter (9V → 4V, for stable SIM800L power supply)
 - SMPS Power Supply
-- Push Buttons (manual override)
 - Voltage Divider Circuit (for ESP32 RX pin protection)
 
 ## 💻 Software & Platforms
